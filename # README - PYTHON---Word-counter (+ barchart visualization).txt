@@ -1,4 +1,4 @@
-
+CHAT GPT CONVERSATION:
 
 User
 create a python script that counts words in a document and shows them as a barchart
