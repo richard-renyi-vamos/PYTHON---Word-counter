@@ -1,4 +1,4 @@
-
+CHAT GPT CONVERSATION
 
 User
 create a python code that counts the words in an article and shows them in a GUI with a counter
